@@ -9,5 +9,5 @@ class Calculator:
         return x - y
 
     def adding(self, x, y):
-        return x + y
+        return x + y 
 
