@@ -18,4 +18,4 @@ class TestCalc:
         assert  self.calc.adding(self, 4, 2)
 
     def test_adding_failed(self):
-        assert self.calc.adding(self, 2, 2) == 5
+        assert self.calc.adding(self, 2, 2) == 5 
